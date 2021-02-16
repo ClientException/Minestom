@@ -11,7 +11,7 @@ import net.minestom.server.instance.block.CustomBlock;
 import net.minestom.server.utils.BlockPosition;
 import org.jetbrains.annotations.NotNull;
 
-/**
+/**test
  * Custom block which burns entities that touch it
  */
 public class BurningTorchBlock extends CustomBlock {
